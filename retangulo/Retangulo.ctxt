@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Retangulo
+comment1.params=x1\ y1\ x2\ y2
+comment1.target=Retangulo(double,\ double,\ double,\ double)
+comment2.params=p1\ p2
+comment2.target=Retangulo(ponto.Ponto,\ ponto.Ponto)
+comment3.params=r
+comment3.target=Retangulo(reta.Reta)
+comment4.params=diagonal
+comment4.target=void\ setDiagonal(reta.Reta)
+comment5.params=
+comment5.target=reta.Reta\ getDiagonal()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

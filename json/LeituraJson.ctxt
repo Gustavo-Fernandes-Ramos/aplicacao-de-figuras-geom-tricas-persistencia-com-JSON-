@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=LeituraJson
+comment1.params=s
+comment1.target=figura.Figura\ lerJson(java.lang.String)
+comment2.params=xn
+comment2.target=int\ obterCoordWindowX(double)
+comment3.params=yn
+comment3.target=int\ obterCoordWindowY(double)
+numComments=4

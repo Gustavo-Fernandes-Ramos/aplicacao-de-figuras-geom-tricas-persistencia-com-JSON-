@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=FiguraRetas
+comment0.text=\r\n\ Escreva\ a\ descri\u00C3\u00A7\u00C3\u00A3o\ da\ classe\ FiguraRetas\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (n\u00C3\u00BAmero\ de\ vers\u00C3\u00A3o\ ou\ data)\r\n
+comment1.params=g\ x1\ y1\ x2\ y2\ nome\ esp\ cor
+comment1.target=void\ desenharRetaEq(java.awt.Graphics,\ int,\ int,\ int,\ int,\ java.lang.String,\ int,\ java.awt.Color)
+comment2.params=g\ x1\ y1\ x2\ y2\ nome\ esp\ cor
+comment2.target=void\ desenharRetaMp(java.awt.Graphics,\ int,\ int,\ int,\ int,\ java.lang.String,\ int,\ java.awt.Color)
+comment3.params=g\ qtde\ esp
+comment3.target=void\ desenharRetas(java.awt.Graphics,\ int,\ int)
+numComments=4

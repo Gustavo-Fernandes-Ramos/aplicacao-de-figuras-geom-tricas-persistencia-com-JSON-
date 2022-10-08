@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=EscritaJson
+comment1.params=s\ fig
+comment1.target=void\ criarJson(java.lang.String,\ figura.Figura)
+comment2.params=xw
+comment2.target=double\ obterCoordNormalizadaX(double)
+comment3.params=yw
+comment3.target=double\ obterCoordNormalizadaY(double)
+numComments=4

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=FiguraTriangulos
+comment1.params=g\ x1\ y1\ x2\ y2\ x3\ y3\ nome\ esp\ cor
+comment1.target=void\ desenharTrianguloMp(java.awt.Graphics,\ int,\ int,\ int,\ int,\ int,\ int,\ java.lang.String,\ int,\ java.awt.Color)
+numComments=2

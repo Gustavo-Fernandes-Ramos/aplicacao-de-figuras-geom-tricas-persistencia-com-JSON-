@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=FiguraPoligonos
+comment1.params=g\ listaCoord\ nome\ esp\ cor
+comment1.target=void\ desenharPoligonoMp(java.awt.Graphics,\ java.util.List,\ java.lang.String,\ int,\ java.awt.Color)
+numComments=2

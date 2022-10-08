@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=FiguraGr
+comment1.params=g\ fig
+comment1.target=void\ desenharFigura(java.awt.Graphics,\ Figura)
+numComments=2

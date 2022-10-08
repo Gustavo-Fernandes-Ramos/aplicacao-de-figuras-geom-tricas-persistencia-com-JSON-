@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=FiguraCirculos
+comment0.text=\r\n\ Desenhar\ figuras\ com\ circulo.\r\n\ \r\n\ @author\ Julio\ Arakaki\r\n\ @version\ 27/08/2021\r\n
+comment1.params=g\ xc\ yc\ raio\ nome\ esp\ cor
+comment1.target=void\ desenharCirculoEq(java.awt.Graphics,\ int,\ int,\ int,\ java.lang.String,\ int,\ java.awt.Color)
+comment2.params=g\ xc\ yc\ raio\ nome\ esp\ cor
+comment2.target=void\ desenharCirculoMp(java.awt.Graphics,\ int,\ int,\ int,\ java.lang.String,\ int,\ java.awt.Color)
+comment3.params=g\ qtde\ esp
+comment3.target=void\ desenharCirculos(java.awt.Graphics,\ int,\ int)
+numComments=4
